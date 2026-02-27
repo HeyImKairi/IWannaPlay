@@ -24,13 +24,13 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\Program Files (x86)\Steam\steamapps\common\Minishoot' Adventures\Windows\Minishoot_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Minishoot' Adventures\Windows\Minishoot_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>..\..\..\..\Program Files (x86)\Steam\steamapps\common\Minishoot' Adventures\Windows\Minishoot_Data\Managed\DOTween.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Minishoot' Adventures\Windows\Minishoot_Data\Managed\DOTween.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
-      <HintPath>..\..\..\..\Program Files (x86)\Steam\steamapps\common\Minishoot' Adventures\Windows\Minishoot_Data\Managed\netstandard.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Minishoot' Adventures\Windows\Minishoot_Data\Managed\netstandard.dll</HintPath>
     </Reference>
   </ItemGroup>
   <PropertyGroup>
