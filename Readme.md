@@ -1,5 +1,4 @@
-# BepInEx Mod Template
-
-My BepInEx mod template
-
-Usage: Run `python3 init.py`
+Installation:
+Simply extract it in your directory where Minishoot' Adventures is installed. 
+It should be in the folder: 
+C:\Program Files (x86)\Steam\steamapps\common\Minishoot' Adventures\Windows\BepInEx\plugins
