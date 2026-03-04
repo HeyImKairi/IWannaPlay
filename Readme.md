@@ -13,3 +13,6 @@
 ## Things I'll be working on in the future:
 - Skip the death message that appears only once. Simply for continuity because... I WANNA PLAY
 - Skip/fast forward the credits after beating Dungeon 5
+
+## Installation: 
+* [Installation guide](https://github.com/HeyImKairi/IWannaPlay/blob/main/Instructions.md)
