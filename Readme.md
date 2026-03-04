@@ -12,4 +12,4 @@
 
 ## Things I'll be working on in the future:
 - Skip the death message that appears only once. Simply for continuity because... I WANNA PLAY
-- Skip/fast forward the credits after beating Dungeon 5# {{GAME_NAME}} {{MOD_NAME}} Mod
+- Skip/fast forward the credits after beating Dungeon 5
