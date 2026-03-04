@@ -22,7 +22,7 @@ Extract the BepInEx folder in the Minishoot folder next to Minishoot.exe ("C:\Pr
 
 LAUNCH THE GAME so it allows BepInEx to create all the necessary files then you can close the game
 
-THEN
-> Extract the folder "IWannaPlay" into the bepinex\plugins
+THEN 
+Extract the folder "IWannaPlay" into the bepinex\plugins
 
 (for Steamdeck users it's the same as Windows except you have to add this line in Minishoot's launch option in Steam: "WINEDLLOVERRIDES="winhttp=n,b" %command%")
